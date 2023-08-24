@@ -1,4 +1,0 @@
-Hola Beyond
-Estamos en la rama MASTER
-Estos son los nuevos cambios que deben quedar como lo solicito el cliente.
-punto final
